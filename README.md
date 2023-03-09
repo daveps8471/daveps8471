@@ -1,16 +1,18 @@
-### Hi there 👋
+# I´m David Puchana Suárez
+### _Médico Veterinario_
+Brindo atención médica general a caninos y felinos domésticos, hospitalización diurna, canalización de vía venosa, terapia farmacológica, administración de vacunas y desparasitantes, cirugía básica, detartraje, manejo de heridas, vendajes, toma de muestras.
 
-<!--
-**daveps8471/daveps8471** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently learning...
+| **Comando** | **Descripción** |
+|-------------|-----------------|
+|      cd     | Sirve para cambiar de directorio, utilizando la fórmula *cd < RutaDirectorio >* para ir al directorio o carpeta concreta que le digas.|
+|wsl --install|Instale WSL y la distribución de Ubuntu de Linux predeterminada. |
+|ls           |Lista los archivos de un determinado directorio|
+| pwd         |Visualiza el directorio actual o de trabajo|
+| cat         |Muestra el contenido del archivo en pantalla en forma continua, el prompt retornará una vez mostrado el contenido de todo el archivo. Permite concatenar uno o mas archivos de texto. |
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| **Alias** | **Descripción** |
+|---------|---------|
+|cl       |clear    |
+|rm       |trash    |
