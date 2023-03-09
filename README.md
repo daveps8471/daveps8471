@@ -12,7 +12,12 @@ Brindo atención médica general a caninos y felinos domésticos, hospitalizaci�
 | cat         |Muestra el contenido del archivo en pantalla en forma continua, el prompt retornará una vez mostrado el contenido de todo el archivo. Permite concatenar uno o mas archivos de texto. |
 
 
-| **Alias** | **Descripción** |
-|---------|---------|
-|cl       |clear    |
-|rm       |trash    |
+ ### Alias 
+  
+**1. cl = clear**
+
+  Permite limpiar la terminal.
+  
+**2. rm = trash**
+
+  Evita eliminar permanentemente los archivos.
